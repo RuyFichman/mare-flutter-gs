@@ -130,3 +130,29 @@ Dados de demonstração
 
   Todos os dados (locais de pesca, registros, espécies, previsão e alertas) ficam fixos no código, então o app funciona como um protótipo.
   Ações como favoritar e adicionar registro funcionam só na memória enquanto o app está aberto, sem salvar nada de forma permanente.
+
+
+  <img width="1273" height="952" alt="home" src="https://github.com/user-attachments/assets/f269602b-05bd-438e-969c-407dd4b54928" />
+
+
+<img width="1273" height="949" alt="intro1" src="https://github.com/user-attachments/assets/046d1414-0df5-4373-a821-4bf5c55608e6" />
+
+
+<img width="1269" height="949" alt="intro2" src="https://github.com/user-attachments/assets/2470bac8-ed24-4433-8ce9-dfea852dcc95" />
+
+
+<img width="1275" height="950" alt="intro3" src="https://github.com/user-attachments/assets/8bfd4116-8211-43c7-b50a-7d5c52a1e119" />
+
+
+<img width="1272" height="950" alt="tela1" src="https://github.com/user-attachments/assets/66900b66-3c99-4770-ad00-0d937c8cd687" />
+
+
+<img width="1272" height="953" alt="tela2" src="https://github.com/user-attachments/assets/dfa7152f-6338-4dfa-a54d-c5ce84ad575e" />
+
+
+<img width="1271" height="947" alt="tela3" src="https://github.com/user-attachments/assets/310fa66f-4270-4301-803b-9cb3a5da5094" />
+
+
+<img width="1274" height="949" alt="tela4" src="https://github.com/user-attachments/assets/5e562394-11e3-4762-9293-d77ce76d0e6f" />
+
+
